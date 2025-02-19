@@ -13,7 +13,7 @@
     "neZha.setMotorSpeed|block": "Définir vitesse moteur %motor à %speed\\%",
     "neZha.stopMotor|block": "Arrêter moteur %motor",
     "neZha.stopAllMotor|block": "Arrêter tous les moteurs",
-    "neZha.setServoAngel|block": "Définir angle servo %servoType %servo à %angle°",
+    "neZha.setServoAngel|block": "Définir servo type %servoType sur %servo à %angle°",
     "neZha.setServoSpeed|block": "Définir vitesse servo rotation continue à %servo à %speed\\%",
     "neZha|block": "NeZha",
     "{id:category}NeZha": "NeZha"
